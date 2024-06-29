@@ -1,0 +1,11 @@
+.error-boundary {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 100vh;
+}
+  
+.error-boundary .error-boundary-text {
+    font-size: 1.25rem;
+    text-align: center;
+}
